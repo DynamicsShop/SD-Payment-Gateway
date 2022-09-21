@@ -1,5 +1,21 @@
 ## SD Payment Gateway Releases
 
+### 2.5.0
+
+#### Enhancements
+
+- BCv14 Private App - The C/AL v2.4.2 code base was converted to AL extensions and released as v2.5.0. 
+
+- BCv14 Private App - Permission groups were created for SD Payment Gateway. 
+
+- BCv14 Private App - The latest version of the licence controller was added to the product. The licence expiry message was updated to display the app name. 
+
+- BCv14 Private App - A page was created to display all the Simply Dynamics Apps and subscription details for the tenant. 
+
+- BCv14 Private App - The Balance (LCY) field for the selected customer was surfaced on page 43006061 SDY UG Awaiting Action SubList. 
+
+- BCv14 Private App - Codeunit 43006046 was updated to grant table 823 permission to access table 43006043. 
+
 ### 2.4.2
 
 #### Bug Fixes
